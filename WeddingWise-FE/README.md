@@ -67,13 +67,14 @@ JWT_SECRET=<your_jwt_secret>
 Create a `.env` file in the `frontend` directory with the following variable:
 
 ```plaintext
-REACT_APP_API_BASE_URL=http://localhost:5000/api
+REACT_APP_API_BASE_URL=http://localhost:5000/api 
 ```
 
 ### Running the App
 
 #### Start the backend server:
 
+Follow these steps
 
 
 # Inside the backend directory
