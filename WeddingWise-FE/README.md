@@ -34,7 +34,7 @@ Follow these instructions to get the project up and running on your local machin
 Clone the repository and install dependencies for both frontend and backend:
 
 ```bash
-git clone <https://github.com/harshavardhanck123/WeddingWise-FrontEnd>
+git clone <https://github.com/Yukechan2002/WeddingWise/tree/main/WeddingWise-FE>
 cd wedding-planner
 ```
 
